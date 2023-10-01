@@ -6,3 +6,8 @@ which all reconverge back on the main branch. A rebase integrates any changes ma
 new branch that first rewrites the commit history of the original branch, then appends the set of new commits on the
 end of the new branch. The rebase method makes the commit history appear as a straight line of linear commits, rather
 than a series of splits and merges.
+
+What is a remote repository?
+
+Remote repositories are different versions of a project that are hosted on servers/online.
+
